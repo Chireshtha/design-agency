@@ -1,0 +1,12 @@
+.custom-btn-2{
+background: linear-gradient(135deg, #2943b7, #051c83);
+color: #FFFFFF;
+transition: transform 0.5s ease-in, color 0.5s ease-in;
+}
+.custom-btn-2:hover{
+transform: scale(1.02);
+color: #FFFFFF;
+}
+.custom-btn-3{
+left: 50%;
+}

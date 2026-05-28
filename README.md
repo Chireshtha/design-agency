@@ -52,8 +52,8 @@ Styles/
 
 ## Live Demo
 
-Add your Vercel deployment link here.
+[Vercel deployment link here.](https://design-agency-xi.vercel.app/)
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+[GitHub repository link here.](https://github.com/Chireshtha/design-agency)
